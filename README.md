@@ -13,3 +13,7 @@ This file is just a reaadmme file.
 
 The piurpose of this file is to provide examples
 on how to use Git and GitHub together.
+
+## GEtting Started
+
+To get started with this project, just `clone` this repository.
